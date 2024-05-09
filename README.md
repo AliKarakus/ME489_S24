@@ -1,2 +1,2 @@
 # ME489_S24
-Supplements for Homeworks for Spring 2024. 
+Supplement materials for Spring 2024. 
